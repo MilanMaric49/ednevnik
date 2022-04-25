@@ -12,3 +12,5 @@ C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Glavna.resour
 C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Login.resources
 C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Sifarnik.resources
 C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Raspodela.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.Glavna2.resources
+C:\Users\User\source\repos\Ednevnik2\Ednevnik2\obj\Debug\Ednevnik2.upisnica.resources
