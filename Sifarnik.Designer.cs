@@ -44,7 +44,7 @@ namespace Ednevnik2
             // 
             // btn_ok
             // 
-            this.btn_ok.Location = new System.Drawing.Point(297, 353);
+            this.btn_ok.Location = new System.Drawing.Point(353, 356);
             this.btn_ok.Name = "btn_ok";
             this.btn_ok.Size = new System.Drawing.Size(75, 23);
             this.btn_ok.TabIndex = 1;
